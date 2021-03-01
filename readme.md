@@ -1,1 +1,1 @@
-study hard can change yourself
+study hard can change yourself.
