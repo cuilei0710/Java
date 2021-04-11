@@ -10,9 +10,9 @@ public class compareTo {
 }
 
 /*学习方法
-x
-Integer.compareTo(anotherInteger)
-anotherInteger--可以是以Byte、Double、Integer、Float、Long或Short类型的参数
+语法
+public int compareTo(NumberSubClass referenceName)
+referenceName--可以是以Byte、Double、Integer、Float、Long或Short类型的参数
 返回值
 如果指定的数与参数相等返回0
 如果指定的数小于参数返回-1
