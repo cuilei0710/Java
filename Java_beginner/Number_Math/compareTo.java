@@ -10,8 +10,9 @@ public class compareTo {
 }
 
 /*学习方法
-语法
+语法：
 public int compareTo(NumberSubClass referenceName)
+参数：
 referenceName--可以是以Byte、Double、Integer、Float、Long或Short类型的参数
 返回值
 如果指定的数与参数相等返回0

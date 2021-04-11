@@ -1,6 +1,6 @@
 package Java_beginner.Number_Math;
 
-public class value {
+public class xxxvalue {
     public static void main(String[] args) {
         Integer n = 5;
         System.out.println(n.byteValue());

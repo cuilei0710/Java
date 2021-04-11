@@ -9,13 +9,14 @@ public class equals {
 
         System.out.println(x.equals(y));
         System.out.println(x.equals(z));
-        System.out.println(x.equals(a));
+        System.out.println(x.equals((int)a));
     }
 }
 
 /*学习方法
-语法
+语法：
 public boolean equals(Object o)
+参数：
 o--任何对象
 返回值
 如Number对象不为NULL，且与方法的参数类型与数值都相等返回TRUE，否者返回FALSE
