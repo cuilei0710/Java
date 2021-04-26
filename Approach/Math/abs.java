@@ -1,4 +1,4 @@
-package NumberMath;
+package Math;
 
 public class abs {
     public static void main(String[] args) {
